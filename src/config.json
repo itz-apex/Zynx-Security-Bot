@@ -1,0 +1,10 @@
+{
+  "token": "Bot Token",
+  "prefix": ".",
+  "MONGO": "mongodb URL",
+  "owner": ["owner1", "owner2"],
+  "extraowners": [],
+  "reportChannel": "report channel id",
+  "support_server_link": "https://discord.gg/bCMZR22TnV",
+  "inviteURL": ""
+}
